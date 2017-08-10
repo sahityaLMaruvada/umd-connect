@@ -11,8 +11,12 @@
 
 a{
 	color: #991A26;
+	
 }
 
+a.main-headings{
+	font-weight: bold; 
+}
 a:focus, a:hover, a:active{
 	color: #991A26;
 	text-decoration:underline;
